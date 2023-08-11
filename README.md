@@ -4,7 +4,9 @@ Utilizaremos uma ferramenta chamada Cucumber para realizar nossos testes orienta
 
 ## Instalação
 Para utilizar o Cucumber no Python precisamos instalar sua biblioteca chamada BEHAVE: https://cucumber.io/docs/installation/python/
+  ```
   pip install behave
+  ```
 
 ## Gherkin
 
