@@ -1,6 +1,6 @@
 # Exemplo BDD
 
-Utilizaremos uma ferramenta chamada Cucumber para realizar nossos testes orientados a comportamentos em código Python
+Utilizaremos uma ferramenta chamada Cucumber para realizar nossos testes orientados a comportamentos em código Python.
 
 ## Instalação
 Para utilizar o Cucumber no Python precisamos instalar sua biblioteca chamada BEHAVE: https://cucumber.io/docs/installation/python/
