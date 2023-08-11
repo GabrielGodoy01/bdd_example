@@ -48,6 +48,12 @@ Dentro da pasta "steps" criaremos um arquivo python de testes: test_calculadora_
     assert context.resultado == resultado, f"Resultado incorreto. Esperado: {resultado}. Obtido: {context.resultado}"
   ```
 
+### Passo 3 - Executando os testes
+Agora precisamos executar os teste para avaliar se tudo esta ocorrendo como esperado, no CMD digite:
+  ```
+  behave
+  ```
+
 ## Funcionamento
 Dentro do escopo do projeto Python o Cucumber ao ser rodado em linha de comando ele passa por 3 fases:
 1.	Ele busca pelas FEATURES dentro dos arquivos para definição dos cenários de testes.
